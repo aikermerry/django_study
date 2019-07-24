@@ -15,4 +15,4 @@ def show(requst,id):
     # books = BookInfo.objects.get(btitle="中国")
     context = {"hero":hero}
     return render(requst,"booktest/show.html",context)
-    pass
+    

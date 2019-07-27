@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<script>
+    function button() {
+            window.location.href="/booktest/sessiontest";
+        }
+</script>
+</head>
+<body>
+<form method="post" action="/booktest/registSave">
+<ul style="border: black solid 1px ;width: 350px;height: 200px" >
+    <hr>
+        账号：<input name="uname" type="text"/>
+    <hr>
+        密码：<input name="upwd" type="password"  />
+    <hr>
+    <br>
+    <input type='submit' value=注册 />
+    <input onclick="button()" type="button" value=返回 />
+
+</ul>
+</form>
+</body>
+</html>

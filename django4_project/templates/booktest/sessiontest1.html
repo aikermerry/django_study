@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" lang="cn-zh">
+    <title>Title</title>
+
+    <script>
+        function button() {
+            window.alert('退出')
+            window.location.href="/booktest/sessionOut";
+        }
+              function button1() {
+            window.location.href="/booktest/regist";
+        }
+
+
+    </script>
+</head>
+<body>
+<form method="post" action="/booktest/sessiontest2">
+<ul style="border: black solid 1px ;width: 350px;height: 200px" >
+    账户名：{{ uname }}<br>
+    <hr>
+        账号：<input name="uname" type="text" value="{% if uname %}{{ uname }}{% endif %}"/>
+    <hr>
+        密码：<input name="upwd" type="password" value="{% if upwd %}{{ upwd }}{% endif %}"/>
+    <hr>
+    <br>
+    <input type='submit' value=登录 />
+    <input onclick="button()" type="button" value=退出 />
+    <input onclick="button1()" type="button" value=注册 />
+</ul>
+</form>
+
+</body>
+</html>

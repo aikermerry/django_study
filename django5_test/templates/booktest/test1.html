@@ -1,0 +1,21 @@
+{% extends 'booktest/base.html' %}
+
+{% block base %}
+
+
+<table  style=" height: 50%; border-color: red ;" border="1px" width="98%">
+
+
+    <tr style="height: ">
+    <td  height="450px" width="10%" style="border: black 1px solid">
+    {% block lift %}列表{% endblock %}</td>
+    <td height="450px" style="border: black 1px solid">
+        {% block right %} 商品展示{% endblock %}</td>
+    </tr>
+</table>
+
+
+
+
+
+{% endblock %}

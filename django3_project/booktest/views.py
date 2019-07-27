@@ -12,6 +12,7 @@ def index(requst):
     return render(requst,'booktest/index.html',comtent)
 
 def test1(requst):
+
     a = requst.GET['a']
     b = requst.GET['b']
     path = requst.COOKIES

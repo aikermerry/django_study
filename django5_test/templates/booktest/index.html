@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>django</title>
+</head>
+<body>
+
+
+{% comment %}
+这是多行注释
+    {% include 'booktest/bar.html' %}
+{% endcomment %}
+
+<a href = "{% url 'booktest:bar' 1%}"  >bar</a>
+
+<img id='verifycode' src="/booktest/codetest" alt="CheckCode"/>
+{% for foo in hero %}
+
+    {% if forloop.counter|divisibleby:2 %}
+    {{ "ssssdDs"|lower|upper|join:"," }}
+    <li style="color: red ;" > :{{foo.show}}</li>
+    {% else %}
+        <li style="color: blue ;" > :{{foo.show}}</li>
+
+    {% endif %}
+
+    {% empty %}
+    <h1>你好</h1>
+{% endfor %}
+
+
+
+</body>
+</html>

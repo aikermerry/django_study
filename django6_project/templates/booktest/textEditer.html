@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+{#    /static/themes/advanced/theme.min.js 这个是tinymce-4版本的 #}
+{#    <script src=' /static/tinymce/tinymce.min.js'></script>#}
+{#<script type="text/javascript">tinyMCE.init({#}
+{#    'mode':'textareas',#}
+{#    "theme": "advanced",#}
+{#    "plugins": "advlist autolink link image lists charmap print preview hr anchor pagebreak spellchecker searchreplace wordcount visualblocks visualchars code fullscreen insertdatetime media nonbreaking save table contextmenu directionality emoticons template paste textcolor",#}
+{#    "toolbar": "insertfile undo redo | styleselect | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image | print preview media fullpage | forecolor backcolor emoticons",#}
+{#    'width':800,#}
+{#    'height':400,#}
+{#    })</script>#}
+<script type="text/javascript" src='/static/tiny_mce/tiny_mce.js'></script>
+
+    <script type="text/javascript">
+        tinyMCE.init({
+            selector:'textarea',
+            'width':800,
+            'height':400
+        });
+    </script>
+
+</head>
+<body>
+<form method="post" action="/content/">
+    <br>
+    <textarea name='hcontent'>哈哈，这是啥呀</textarea>
+    <br>
+    <input type="submit" value="提交">
+</form>
+</body>
+</html>

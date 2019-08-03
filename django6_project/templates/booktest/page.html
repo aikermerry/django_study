@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>pagetest</title>
+</head>
+<body style="width: 400px;border: solid blue ;padding: 5px ">
+
+{% for foo in page %}
+    <li>
+{{ foo.hname }}
+    </li>
+{% endfor %}
+
+<hr>
+
+<div align="right">
+{% for foo in page.paginator.page_range %}
+{% ifequal foo page_num  %}<!--判断相等-->
+    <b><a href="/page/{{ foo }}">{{ foo }}</a></b>
+    {% else %}
+ <a href="/page/{{ foo }}">{{ foo }}</a>
+{% endifequal %}
+{% endfor %}
+
+{% if page.has_next %}
+    <a href="/page/{{ page.next_page_number }}">下一页</a>
+{% endif %}
+</div>
+
+</body>
+</html>

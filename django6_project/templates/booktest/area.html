@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <script
+  src="https://code.jquery.com/jquery-1.12.4.min.js"
+  integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+  crossorigin="anonymous"></script>
+
+    <script>
+    $(function () {
+        $.get('/area/0',function (data) {
+            pro = $('#pro')
+            $.each(data.data,function (index,item) {
+                pro.append('<option value='+item['id']+'>'+item['title']+'</option>');
+            })
+
+        });
+
+
+        $('#pro').change(function () {
+            shi = $('#shi')
+            shi.empty()
+            shi.append('<option value='+'>'+'请选择市'+'</option>')
+            xian = $('#xian')
+            xian.empty().append('<option value='+'>'+'请选择区、县'+'</option>')
+            if ($(this).val() !='')
+            {
+            $.get('/area/'+$(this).val(),function (data) {
+
+                $.each(data.data,function (index,item) {
+                 shi.append('<option value='+item['id']+'>'+item['title']+'</option>'
+
+                 )
+
+                })
+            })};
+        });
+
+        $('#shi').change(function () {
+            xian = $('#xian')
+            xian.empty().append('<option value='+'>'+'请选择区、县'+'</option>')
+
+            if ($(this).val() !='')
+            {
+            $.post('/area/'+$(this).val(),function (data) {
+{#                {% csrf_token %}#}
+
+                $.each(data.data,function (index,item) {
+                 xian.append('<option value='+item['id']+'>'+item['title']+'</option>'
+                 )
+                })
+            })};
+        });
+    })
+    </script>
+</head>
+<body>
+<select  autofocus id = 'pro'  >
+
+    <option value="" >请选择省</option>
+</select>
+
+<select id="shi" style="width: 120px">
+    <option value="">请选择市</option>
+</select>
+<select id="xian" style="width: 120px">
+    <option value="">请选择区/县</option>
+</select>
+</body>
+</html>
+

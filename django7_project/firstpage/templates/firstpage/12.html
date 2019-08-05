@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+        <script
+  src="https://code.jquery.com/jquery-1.12.4.min.js"
+  integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+  crossorigin="anonymous"></script>
+
+<script>
+    $(function () {
+        $('button').click(function () {
+
+        $('div').each(function (index, domEle) {
+          // domEle == this
+          $(domEle).css("backgroundColor", "yellow");
+          if ($(this).is("#stop")) {
+          $("span").text("Stopped at div index #" + index);
+          return false;
+          }
+});
+});
+
+    })
+
+</script>
+</head>
+<body>
+
+<button id="button">Change colors</button>
+<span>vcv</span>
+<div>鏂规硶</div>
+<div>鏂规硶</div>
+
+<div>绛夊緟</div>
+<div>鏂规硶</div>
+<div id="stop">Stop here</div>
+<div></div>
+
+<div></div>
+<div></div>
+</body>
+</html>

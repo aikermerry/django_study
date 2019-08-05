@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<lu>
+{% for foo in data %}
+    <li>
+    {{ foo.username }}
+    </li>
+{% endfor %}
+</lu>
+{% load static from staticfiles  %}
+<img src="{% static 'firstpage/img/3.jpg' %}">
+<hr>
+<form method="post" action="{% url 'index:test2' %}">
+    {% csrf_token %}
+    <label>姓名：</label><input type="text" name="name" value=""><br>
+    <label>&ensp;&ensp;ID：</label><input type="text" name="pid" value="">
+    <br>
+    <input type="submit" value="提交">
+
+</form>
+
+
+</body>
+</html>

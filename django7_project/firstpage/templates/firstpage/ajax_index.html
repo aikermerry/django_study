@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ajax</title>
+
+        <script
+  src="https://code.jquery.com/jquery-1.12.4.min.js"
+  integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+  crossorigin="anonymous"></script>
+
+    <script>
+        $(function () {
+            $.post('/ajax1',function (data) {
+
+                xiao = $('#xiao')
+                $.each(data.data,function (index,data) {
+                    xiao.append(
+                        "<option value='1'>"+data.username+"</option>"
+                    )
+
+                })
+            })
+
+        })
+
+    </script>
+</head>
+<body>
+
+<select id="xiao">
+
+    <option value="i">上山</option>
+    <option value="i">上山</option>
+    <option value="i">上山</option>
+    <option value="i">上山</option>
+    <option value="i">上山</option>
+</select >
+<select id='liu'>
+    <option value="">下山</option>
+    <option value="i">上山</option>
+    <option value="i">上山</option>
+    <option value="i">上山</option>
+
+</select>
+
+
+</body>
+</html>

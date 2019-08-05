@@ -2,178 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23711385-2d1b-4926-ada6-edf3e5359e4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/booktest/search_indexes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/booktest/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/booktest/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/ar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/ar_SA.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/az.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/be.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/bg_BG.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/bn_BD.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/bs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/cs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/cy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/da.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/de.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/de_AT.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/dv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/el.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/en_CA.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/en_GB.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/eo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/es.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/es_MX.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/et.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/eu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/fa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/fa_IR.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/fi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/fo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/fr_FR.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/gd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/gl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/he_IL.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/hi_IN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/hr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/hu_HU.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/hy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/id.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/is_IS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/it.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/ja.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/ka_GE.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/kab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/kk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/km_KH.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/ko_KR.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/ku.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/ku_IQ.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/lb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/lt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/lv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/ml.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/ml_IN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/mn_MN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/nb_NO.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/nl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/pl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/pt_BR.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/pt_PT.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/ro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/ru.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/si_LK.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/sk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/sl_SI.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/sr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/sv_SE.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/ta.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/ta_IN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/tg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/th_TH.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/tr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/tr_TR.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/tt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/ug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/uk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/uk_UA.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/vi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/vi_VN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/zh_CN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/langs/zh_TW.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/license.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/advlist/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/anchor/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/autolink/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/autoresize/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/autosave/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/bbcode/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/charmap/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/code/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/colorpicker/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/contextmenu/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/directionality/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/emoticons/img/smiley-cool.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/emoticons/img/smiley-cry.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/emoticons/img/smiley-embarassed.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/emoticons/img/smiley-foot-in-mouth.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/emoticons/img/smiley-frown.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/emoticons/img/smiley-innocent.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/emoticons/img/smiley-kiss.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/emoticons/img/smiley-laughing.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/emoticons/img/smiley-money-mouth.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/emoticons/img/smiley-sealed.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/emoticons/img/smiley-smile.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/emoticons/img/smiley-surprised.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/emoticons/img/smiley-tongue-out.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/emoticons/img/smiley-undecided.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/emoticons/img/smiley-wink.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/emoticons/img/smiley-yell.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/emoticons/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/example/dialog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/example/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/example_dependency/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/fullpage/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/fullscreen/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/hr/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/image/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/imagetools/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/importcss/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/insertdatetime/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/layer/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/legacyoutput/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/link/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/lists/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/media/moxieplayer.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/media/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/nonbreaking/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/noneditable/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/pagebreak/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/paste/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/preview/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/print/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/save/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/searchreplace/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/spellchecker/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/tabfocus/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/table/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/template/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/textcolor/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/textpattern/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/visualblocks/css/visualblocks.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/visualblocks/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/visualchars/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/plugins/wordcount/plugin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/skins/lightgray/content.inline.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/skins/lightgray/content.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/skins/lightgray/fonts/tinymce-small.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/skins/lightgray/fonts/tinymce-small.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/skins/lightgray/fonts/tinymce-small.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/skins/lightgray/fonts/tinymce-small.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/skins/lightgray/fonts/tinymce.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/skins/lightgray/fonts/tinymce.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/skins/lightgray/fonts/tinymce.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/skins/lightgray/fonts/tinymce.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/skins/lightgray/img/anchor.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/skins/lightgray/img/loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/skins/lightgray/img/object.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/skins/lightgray/img/trans.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/skins/lightgray/skin.ie7.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/skins/lightgray/skin.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/themes/advanced/theme.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/static/tinymce.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/templates/booktest/area.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/templates/booktest/cache.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/templates/booktest/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/templates/booktest/page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/templates/booktest/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/templates/booktest/textEditer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/templates/search/indexes/booktest/heroinfo_text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django6_project/templates/search/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django7_project/firstpage/static/firstpage/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/ajax_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/img_show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/test2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/test3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django7_project/firstpage/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django5_test/templates/booktest/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/django5_test/templates/booktest/index.html" afterDir="false" />
     </list>
@@ -203,42 +41,51 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/django6_project/booktest/views.py">
+        <entry file="file://$PROJECT_DIR$/django7_project/firstpage/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="57" column="24" lean-forward="true" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+            <state relative-caret-position="159">
+              <caret line="59" column="35" lean-forward="true" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
               <folding>
-                <element signature="e#0#43#0" expanded="true" />
+                <element signature="e#0#45#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/django6_project/templates/search/search.html">
+        <entry file="file://$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/ajax_index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+            <state relative-caret-position="300">
+              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/django6_project/templates/search/indexes/booktest/heroinfo_text.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/django6_project/booktest/search_indexes.py">
+        <entry file="file://$PROJECT_DIR$/django6_project/templates/booktest/area.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/django7_project/firstpage/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/django7_project/firstpage/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <element signature="e#16#44#0" expanded="true" />
+                <element signature="e#0#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -267,23 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/django3_project/django3_project/urls.py" />
-        <option value="$PROJECT_DIR$/django3_project/booktest/urls.py" />
-        <option value="$PROJECT_DIR$/django3_project/templates/booktest/index.html" />
-        <option value="$PROJECT_DIR$/django4_project/templates/booktest/index.html" />
-        <option value="$PROJECT_DIR$/django4_project/booktest/admin.py" />
-        <option value="$PROJECT_DIR$/django4_project/templates/booktest/postest2.html" />
-        <option value="$PROJECT_DIR$/django4_project/django4_project/settings.py" />
-        <option value="$PROJECT_DIR$/django4_project/templates/booktest/posttest2.html" />
-        <option value="$PROJECT_DIR$/django4_project/django4_project/urls.py" />
-        <option value="$PROJECT_DIR$/django4_project/templates/booktest/posttest1.html" />
-        <option value="$PROJECT_DIR$/django4_project/booktest/models.py" />
-        <option value="$PROJECT_DIR$/django4_project/booktest/urls.py" />
-        <option value="$PROJECT_DIR$/django4_project/templates/booktest/sessiontest1.html" />
-        <option value="$PROJECT_DIR$/django4_project/templates/booktest/regist.html" />
-        <option value="$PROJECT_DIR$/django4_project/booktest/views.py" />
-        <option value="$PROJECT_DIR$/django5_test/django5_test/settings.py" />
-        <option value="$PROJECT_DIR$/django3_project/booktest/views.py" />
         <option value="$PROJECT_DIR$/django5_test/booktest/models.py" />
         <option value="$PROJECT_DIR$/django5_test/templates/booktest/bar.html" />
         <option value="$PROJECT_DIR$/django5_test/django5_test/urls.py" />
@@ -298,7 +128,6 @@
         <option value="$PROJECT_DIR$/django5_test/templates/booktest/codes.html" />
         <option value="$PROJECT_DIR$/django5_test/booktest/urls.py" />
         <option value="$PROJECT_DIR$/django5_test/booktest/views.py" />
-        <option value="$PROJECT_DIR$/django5_test/templates/booktest/index.html" />
         <option value="$PROJECT_DIR$/django6_project/templates/booktest/index.html" />
         <option value="$PROJECT_DIR$/django6_project/templates/booktest/page.html" />
         <option value="$PROJECT_DIR$/django6_project/templates/booktest/area.html" />
@@ -314,16 +143,34 @@
         <option value="$PROJECT_DIR$/django6_project/templates/search/indexes/booktest/HeroInfo_text.txt" />
         <option value="$PROJECT_DIR$/django6_project/templates/booktest/search.html" />
         <option value="$PROJECT_DIR$/django6_project/booktest/urls.py" />
-        <option value="$PROJECT_DIR$/django6_project/booktest/views.py" />
         <option value="$PROJECT_DIR$/django6_project/templates/search/indexes/booktest/heroinfo_text.txt" />
         <option value="$PROJECT_DIR$/django6_project/booktest/search_indexes.py" />
         <option value="$PROJECT_DIR$/django6_project/templates/search/search.html" />
+        <option value="$PROJECT_DIR$/django6_project/booktest/views.py" />
+        <option value="$PROJECT_DIR$/django7_project/firstpage/__init__.py" />
+        <option value="$PROJECT_DIR$/django7_project/firstpage/admin.py" />
+        <option value="$PROJECT_DIR$/django7_project/firstpage/models.py" />
+        <option value="$PROJECT_DIR$/django7_project/templates/firstpage/index.html" />
+        <option value="$PROJECT_DIR$/django7_project/django7_project/urls.py" />
+        <option value="$PROJECT_DIR$/django5_test/templates/booktest/index.html" />
+        <option value="$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/index.html" />
+        <option value="$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/test2.html" />
+        <option value="$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/test3.html" />
+        <option value="$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/login.html" />
+        <option value="$PROJECT_DIR$/django7_project/django7_project/settings.py" />
+        <option value="$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/upload.html" />
+        <option value="$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/img_show.html" />
+        <option value="$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/fffff.html" />
+        <option value="$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/12.html" />
+        <option value="$PROJECT_DIR$/django7_project/firstpage/urls.py" />
+        <option value="$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/ajax_index.html" />
+        <option value="$PROJECT_DIR$/django7_project/firstpage/views.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="385" />
-    <option name="width" value="683" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="307" />
+    <option name="width" value="1059" />
     <option name="height" value="714" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -361,14 +208,38 @@
               <item name="django" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="$PROJECT_DIR$" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="django6_project" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="templates" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="django6_project" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="django" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="$PROJECT_DIR$" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="django6_project" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="templates" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="search" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="django" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="$PROJECT_DIR$" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="django7_project" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="django" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="$PROJECT_DIR$" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="django7_project" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="firstpage" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="django" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="$PROJECT_DIR$" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="django7_project" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="firstpage" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="static" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="django" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="$PROJECT_DIR$" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="django7_project" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="firstpage" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="templates" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -381,24 +252,25 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/django6_project/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/django7_project/static/firstpage/img" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/django7_project/static/firstpage/img" />
       <recent name="$PROJECT_DIR$/django6_project/static" />
       <recent name="$PROJECT_DIR$/django6_project" />
       <recent name="$PROJECT_DIR$/django6_project/static/booktest" />
       <recent name="$PROJECT_DIR$/django5_test/booktest" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/django7_project/firstpage" />
       <recent name="$PROJECT_DIR$/django6_project/templates/search/indexes/booktest" />
       <recent name="$PROJECT_DIR$/django6_project/templates/search/indexes" />
       <recent name="$PROJECT_DIR$/django6_project/templates/search" />
       <recent name="$PROJECT_DIR$/django6_project/templates/search/booktest" />
-      <recent name="$PROJECT_DIR$/django6_project/static" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -436,16 +308,18 @@
       <workItem from="1564625967699" duration="17461000" />
       <workItem from="1564698437271" duration="22140000" />
       <workItem from="1564791923881" duration="8923000" />
+      <workItem from="1564888175534" duration="25600000" />
+      <workItem from="1564957376362" duration="7135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135596000" />
+    <option name="totallyTimeSpent" value="168331000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="714" extended-state="6" />
+    <frame x="307" y="0" width="1059" height="714" extended-state="4" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4982639" visible="true" weight="0.14339909" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4982639" visible="true" weight="0.26805145" />
       <window_info id="Structure" order="1" sideWeight="0.5017361" side_tool="true" weight="0.24962063" />
       <window_info id="Favorites" order="2" sideWeight="0.5017361" side_tool="true" weight="0.24962063" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -460,7 +334,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.4965157" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.49479166" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -468,7 +342,7 @@
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4982639" visible="true" weight="0.20106222" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4982639" visible="true" weight="0.16304348" />
       <window_info id="Structure" order="1" sideWeight="0.5017361" side_tool="true" weight="0.24962063" />
       <window_info id="Favorites" order="2" sideWeight="0.5017361" side_tool="true" weight="0.24962063" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -483,7 +357,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.12048193" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.49479166" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -495,179 +369,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/django_program/booktest/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django5_test/templates/booktest/bar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django5_test/templates/booktest/test2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django5_test/templates/booktest/test1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding>
-            <element signature="e#72#128#0#HTML" expanded="true" />
-            <element signature="e#141#157#0#HTML" expanded="true" />
-            <element signature="e#170#234#0#HTML" expanded="true" />
-            <element signature="e#286#317#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django3_project/templates/booktest/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1860">
-          <caret line="93" column="40" selection-start-line="93" selection-start-column="40" selection-end-line="93" selection-end-column="40" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django5_test/templates/booktest/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django5_test/booktest/3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slide_auth_code-master/app/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django5_test/django5_test/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" selection-start-line="15" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="e#621#662#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slide_auth_code-master/django_demo/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#1#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slide_auth_code-master/django_demo/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slide_auth_code-master/app/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#15#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slide_auth_code-master/app/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="45" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slide_auth_code-master/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="163" column="66" lean-forward="true" selection-start-line="163" selection-start-column="66" selection-end-line="163" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django5_test/booktest/geetest.py" />
-    <entry file="file://$PROJECT_DIR$/django5_test/templates/booktest/codes.html" />
-    <entry file="file://$PROJECT_DIR$/slide_auth_code-master/app/geetest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1605">
-          <caret line="144" column="25" lean-forward="true" selection-start-line="144" selection-start-column="25" selection-end-line="144" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django5_test/booktest/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django5_test/booktest/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django5_test/booktest/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="34" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django5_test/templates/booktest/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django6_project/static/booktest/media/Snip20170322_4.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django6_project/static/booktest/media/Snip20170322_17.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django6_project/templates/booktest/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/django6_project/templates/booktest/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -694,13 +395,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django6_project/templates/booktest/area.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -750,23 +444,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django6_project/django6_project/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="17" />
-          <folding>
-            <element signature="e#624#665#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django6_project/django6_project/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="138" column="52" selection-start-line="138" selection-start-column="40" selection-end-line="138" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/django6_project/booktest/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
@@ -794,19 +471,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django6_project/templates/search/indexes/booktest/heroinfo_text.txt">
+    <entry file="file://$PROJECT_DIR$/django6_project/booktest/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django6_project/booktest/search_indexes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="179">
+          <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
           <folding>
-            <element signature="e#16#44#0" expanded="true" />
+            <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -814,16 +484,220 @@
     <entry file="file://$PROJECT_DIR$/django6_project/templates/search/search.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django6_project/booktest/views.py">
+    <entry file="file://$PROJECT_DIR$/django6_project/templates/search/indexes/booktest/heroinfo_text.txt" />
+    <entry file="file://$PROJECT_DIR$/django6_project/booktest/search_indexes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="57" column="24" lean-forward="true" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+        <state relative-caret-position="260">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
-            <element signature="e#0#43#0" expanded="true" />
+            <element signature="e#16#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django7_project/firstpage/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django3_project/booktest/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/vdjango/lib/python3.6/site-packages/django/db/models/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="204" column="28" lean-forward="true" selection-start-line="204" selection-start-column="28" selection-end-line="204" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django3_project/booktest/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django7_project/firstpage/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django5_test/django5_test/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django6_project/templates/booktest/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django7_project/django7_project/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django5_test/templates/booktest/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/test3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django7_project/django7_project/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="132" column="45" lean-forward="true" selection-start-line="132" selection-start-column="45" selection-end-line="132" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django7_project/firstpage/static/user_upload/background_hd_03.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/img_show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/upload.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-1.12.4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/fffff.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/test2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django6_project/django6_project/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="48" column="30" lean-forward="true" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django6_project/django6_project/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="e#624#665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/12.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django7_project/firstpage/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django7_project/firstpage/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django6_project/templates/booktest/area.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/ajax_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django7_project/firstpage/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="59" column="35" lean-forward="true" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -13,7 +13,7 @@
 {% endfor %}
 </lu>
 {% load static from staticfiles  %}
-<img src="{% static 'firstpage/img/3.jpg' %}">
+<img src="{% static 'firstpage/img/3.jpg' %}" style="width: 100%">
 <hr>
 <form method="post" action="{% url 'index:test2' %}">
     {% csrf_token %}

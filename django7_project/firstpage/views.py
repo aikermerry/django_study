@@ -1,6 +1,7 @@
 from django.shortcuts import render, redirect
 from django.http import HttpResponse, JsonResponse
 from django.core.urlresolvers import reverse
+
 from .models import *
 from django.conf import settings
 
@@ -63,16 +64,18 @@ def updata_img(request):
         with open(img_path_name, 'wb') as f:
             for i in img.chunks():
                 f.write(i)
-
             return render(request, 'firstpage/img_show.html', context)
 
+
 def ajax_index(request):
-    return render(request,'firstpage/ajax_index.html')
+    return render(request, 'firstpage/ajax_index.html')
+
+
 from django.views.decorators.csrf import csrf_exempt
+
 
 @csrf_exempt
 def ajax1(request):
-
     usename = UserInfo.manage.all()
     print(list(usename.values()))
-    return JsonResponse({"data":list(usename.values())})
+    return JsonResponse({"data": list(usename.values())})

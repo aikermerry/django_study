@@ -26,6 +26,10 @@ def cookieTest(request):
     #     response.write('<h1>'+request.COOKIES['h1']+'</h1>')
     response.set_cookie('h1','passwd',10)
     return response
+
+
+
+    
 def sessionTest(request):
     uname = request.session.get('uname')
     upwd = request.session.get('upwd')

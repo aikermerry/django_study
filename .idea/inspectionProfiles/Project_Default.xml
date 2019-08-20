@@ -141,6 +141,8 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="django_program.booktest.models.BookInfo.objects" />
+          <option value="django8_shoping.show_goods.views.regist_index" />
+          <option value="django8_shoping.show_goods.views.UserInfo" />
         </list>
       </option>
     </inspection_tool>

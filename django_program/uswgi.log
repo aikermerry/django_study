@@ -1,0 +1,117 @@
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Aug  6 07:47:46 2019] ***
+compiled with version: 7.3.0 on 05 August 2019 09:11:06
+os: Linux-4.15.0-29deepin-generic #31 SMP Fri Jul 27 07:12:08 UTC 2018
+nodename: aiker-PC
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /media/aiker/python/mypython/django/django_program
+writing pidfile to uwsgi.pid
+detected binary path: /home/aiker/.virtualenvs/vdjango/bin/uwsgi
+chdir() to /media/aiker/python/mypython/django_program
+chdir(): No such file or directory [core/uwsgi.c line 2623]
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Aug  6 07:55:30 2019] ***
+compiled with version: 7.3.0 on 05 August 2019 09:11:06
+os: Linux-4.15.0-29deepin-generic #31 SMP Fri Jul 27 07:12:08 UTC 2018
+nodename: aiker-PC
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /media/aiker/python/mypython/django/django_program
+writing pidfile to uwsgi.pid
+detected binary path: /home/aiker/.virtualenvs/vdjango/bin/uwsgi
+chdir() to /media/aiker/python/mypython/django_program
+chdir(): No such file or directory [core/uwsgi.c line 2623]
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Aug  6 08:00:31 2019] ***
+compiled with version: 7.3.0 on 05 August 2019 09:11:06
+os: Linux-4.15.0-29deepin-generic #31 SMP Fri Jul 27 07:12:08 UTC 2018
+nodename: aiker-PC
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /media/aiker/python/mypython/django/django_program
+writing pidfile to uwsgi.pid
+detected binary path: /home/aiker/.virtualenvs/vdjango/bin/uwsgi
+chdir() to /media/aiker/python/mypython/django_program
+chdir(): No such file or directory [core/uwsgi.c line 2623]
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Aug  6 08:02:45 2019] ***
+compiled with version: 7.3.0 on 05 August 2019 09:11:06
+os: Linux-4.15.0-29deepin-generic #31 SMP Fri Jul 27 07:12:08 UTC 2018
+nodename: aiker-PC
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /media/aiker/python/mypython/django/django_program
+writing pidfile to uwsgi.pid
+detected binary path: /home/aiker/.virtualenvs/vdjango/bin/uwsgi
+chdir() to /media/aiker/python/mypython/django_program
+chdir(): No such file or directory [core/uwsgi.c line 2623]
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Aug  6 08:02:51 2019] ***
+compiled with version: 7.3.0 on 05 August 2019 09:11:06
+os: Linux-4.15.0-29deepin-generic #31 SMP Fri Jul 27 07:12:08 UTC 2018
+nodename: aiker-PC
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /media/aiker/python/mypython/django/django_program
+writing pidfile to uwsgi.pid
+detected binary path: /home/aiker/.virtualenvs/vdjango/bin/uwsgi
+chdir() to /media/aiker/python/mypython/django_program
+chdir(): No such file or directory [core/uwsgi.c line 2623]
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Aug  6 08:02:52 2019] ***
+compiled with version: 7.3.0 on 05 August 2019 09:11:06
+os: Linux-4.15.0-29deepin-generic #31 SMP Fri Jul 27 07:12:08 UTC 2018
+nodename: aiker-PC
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /media/aiker/python/mypython/django/django_program
+writing pidfile to uwsgi.pid
+detected binary path: /home/aiker/.virtualenvs/vdjango/bin/uwsgi
+chdir() to /media/aiker/python/mypython/django_program
+chdir(): No such file or directory [core/uwsgi.c line 2623]
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Aug  6 08:02:53 2019] ***
+compiled with version: 7.3.0 on 05 August 2019 09:11:06
+os: Linux-4.15.0-29deepin-generic #31 SMP Fri Jul 27 07:12:08 UTC 2018
+nodename: aiker-PC
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /media/aiker/python/mypython/django/django_program
+writing pidfile to uwsgi.pid
+detected binary path: /home/aiker/.virtualenvs/vdjango/bin/uwsgi
+chdir() to /media/aiker/python/mypython/django_program
+chdir(): No such file or directory [core/uwsgi.c line 2623]
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Aug  6 08:16:02 2019] ***
+compiled with version: 7.3.0 on 05 August 2019 09:11:06
+os: Linux-4.15.0-29deepin-generic #31 SMP Fri Jul 27 07:12:08 UTC 2018
+nodename: aiker-PC
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /media/aiker/python/mypython/django/django_program
+writing pidfile to uwsgi.pid
+detected binary path: /home/aiker/.virtualenvs/vdjango/bin/uwsgi
+chdir() to /media/aiker/python/mypython/django_program
+chdir(): No such file or directory [core/uwsgi.c line 2623]
+*** Starting uWSGI 2.0.18 (64bit) on [Tue Aug  6 08:17:08 2019] ***
+compiled with version: 7.3.0 on 05 August 2019 09:11:06
+os: Linux-4.15.0-29deepin-generic #31 SMP Fri Jul 27 07:12:08 UTC 2018
+nodename: aiker-PC
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 4
+current working directory: /media/aiker/python/mypython/django/django_program
+writing pidfile to uwsgi.pid
+detected binary path: /home/aiker/.virtualenvs/vdjango/bin/uwsgi
+chdir() to /media/aiker/python/mypython/django_program
+chdir(): No such file or directory [core/uwsgi.c line 2623]

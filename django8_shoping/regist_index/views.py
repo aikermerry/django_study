@@ -119,7 +119,7 @@ def userCenter(request):
         recv_user_name = user_info.recvusername
         username = user_info.username
 
-    context = {'username': username, "address": address, 'phonenum': phonenum, 'youbian': youbian,
+    context = {'title':'用户中心','username': username, "address": address, 'phonenum': phonenum, 'youbian': youbian,
                'recv_user_name': '(%s 收)' % recv_user_name}
     print(context)
     return render(request, 'regist_index/user_center_site.html', context)

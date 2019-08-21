@@ -2,83 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23711385-2d1b-4926-ada6-edf3e5359e4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/django8_shoping/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/regist_index/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/regist_index/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/show_goods/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/adv01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/adv02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/banner01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/banner02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/banner03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/banner04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/banner05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/banner06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/fruit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods/goods001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods/goods002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods/goods003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods/goods004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods/goods005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods/goods006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods/goods007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods/goods008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods/goods009.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods/goods010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods/goods011.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods/goods012.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods/goods013.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods/goods014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods/goods015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods/goods016.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods/goods017.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods/goods018.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods/goods019.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods/goods020.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods/goods021.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/goods_detail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/icons02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/interval_line.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/left_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/login_banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/logo02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/pay_icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/register_banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/shop_cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/slide.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/slide02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/slide03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/images/slide04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/js/jquery-1.12.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/js/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/js/jquery.cookie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/js/register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/static/js/slide.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/templates/regist_index/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/templates/regist_index/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/templates/regist_index/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/templates/regist_index/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django8_shoping/templates/regist_index/user_center_site.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django8_shoping/templates/show_goods/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django8_shoping/templates/show_goods/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django8_shoping/templates/show_goods/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django8_shoping/templates/show_goods/list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django4_project/booktest/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django4_project/booktest/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django5_test/django5_test/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django5_test/django5_test/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django5_test/django5_test/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django5_test/django5_test/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django5_test/django5_test/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/django5_test/django5_test/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django5_test/templates/booktest/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/django5_test/templates/booktest/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django7_project/django7_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django7_project/django7_project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django7_project/firstpage/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/django7_project/firstpage/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django7_project/firstpage/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django7_project/firstpage/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_program/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/django_program/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_program/django_program/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_program/django_program/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django8_shoping/regist_index/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django8_shoping/regist_index/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django8_shoping/show_goods/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/django8_shoping/show_goods/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django8_shoping/show_goods/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/django8_shoping/show_goods/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django8_shoping/show_goods/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django8_shoping/show_goods/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django8_shoping/show_goods/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django8_shoping/show_goods/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django8_shoping/templates/regist_index/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/django8_shoping/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django8_shoping/templates/regist_index/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django8_shoping/templates/regist_index/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/django8_shoping/templates/regist_index/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django8_shoping/templates/regist_index/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/django8_shoping/templates/regist_index/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django8_shoping/templates/regist_index/user_center_site.html" beforeDir="false" afterPath="$PROJECT_DIR$/django8_shoping/templates/regist_index/user_center_site.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,13 +44,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/django8_shoping/django8_shoping/urls.py">
+        <entry file="file://$PROJECT_DIR$/django8_shoping/templates/show_goods/detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-              <folding>
-                <element signature="e#649#689#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="200">
+              <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/django8_shoping/templates/show_goods/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="62" column="18" lean-forward="true" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/django8_shoping/templates/show_goods/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="108" column="42" selection-start-line="108" selection-start-column="42" selection-end-line="108" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -120,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/django8_shoping/show_goods/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="220">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding>
                 <element signature="e#94#126#0" expanded="true" />
               </folding>
@@ -132,8 +85,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/django8_shoping/show_goods/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="45">
+              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -142,22 +95,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/django8_shoping/show_goods/models.py">
+        <entry file="file://$PROJECT_DIR$/django8_shoping/show_goods/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+            <state relative-caret-position="200">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
               <folding>
-                <element signature="e#0#28#0" expanded="true" />
+                <element signature="e#0#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/django8_shoping/django8_shoping/settings.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/django8_shoping/templates/show_goods/list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="129" column="1" lean-forward="true" selection-start-line="129" selection-start-column="1" selection-end-line="129" selection-end-column="1" />
+            <state relative-caret-position="100">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -167,8 +120,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -180,9 +133,11 @@
       <find>reg_form</find>
       <find>images</find>
       <find>null</find>
+      <find>goods_set</find>
     </findStrings>
     <replaceStrings>
       <replace>/static/images</replace>
+      <replace>goodsinfo_set</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -191,12 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/django6_project/templates/booktest/page.html" />
-        <option value="$PROJECT_DIR$/django6_project/templates/booktest/area.html" />
-        <option value="$PROJECT_DIR$/django6_project/booktest/admin.py" />
-        <option value="$PROJECT_DIR$/django6_project/tinymce/settings.py" />
-        <option value="$PROJECT_DIR$/django6_project/templates/booktest/textEditer.html" />
-        <option value="$PROJECT_DIR$/django6_project/templates/booktest/cache.html" />
         <option value="$PROJECT_DIR$/django6_project/booktest/models.py" />
         <option value="$PROJECT_DIR$/django6_project/django6_project/settings.py" />
         <option value="$PROJECT_DIR$/django6_project/templates/search/indexes/booktest_text.txt" />
@@ -229,24 +178,32 @@
         <option value="$PROJECT_DIR$/django7_project/firstpage/views.py" />
         <option value="$PROJECT_DIR$/django8_shoping/templates/regist_index/check.html" />
         <option value="$PROJECT_DIR$/django8_shoping/static/js/register.js" />
-        <option value="$PROJECT_DIR$/django8_shoping/templates/regist_index/register.html" />
-        <option value="$PROJECT_DIR$/django8_shoping/templates/regist_index/login.html" />
         <option value="$PROJECT_DIR$/django8_shoping/templates/regist_index/base.html" />
         <option value="$PROJECT_DIR$/django8_shoping/regist_index/models.py" />
-        <option value="$PROJECT_DIR$/django8_shoping/templates/regist_index/user_center_site.html" />
-        <option value="$PROJECT_DIR$/django8_shoping/show_goods/models.py" />
         <option value="$PROJECT_DIR$/django8_shoping/regist_index/urls.py" />
-        <option value="$PROJECT_DIR$/django8_shoping/templates/regist_index/index.html" />
         <option value="$PROJECT_DIR$/django8_shoping/django8_shoping/urls.py" />
-        <option value="$PROJECT_DIR$/django8_shoping/show_goods/urls.py" />
-        <option value="$PROJECT_DIR$/django8_shoping/regist_index/views.py" />
-        <option value="$PROJECT_DIR$/django8_shoping/show_goods/views.py" />
         <option value="$PROJECT_DIR$/django8_shoping/django8_shoping/settings.py" />
+        <option value="$PROJECT_DIR$/django8_shoping/templates/regist_index/login.html" />
+        <option value="$PROJECT_DIR$/django8_shoping/templates/regist_index/register.html" />
+        <option value="$PROJECT_DIR$/django8_shoping/templates/base.html" />
+        <option value="$PROJECT_DIR$/django8_shoping/templates/regist_index/index.html" />
+        <option value="$PROJECT_DIR$/django8_shoping/show_goods/models.py" />
+        <option value="$PROJECT_DIR$/django8_shoping/regist_index/views.py" />
+        <option value="$PROJECT_DIR$/django8_shoping/templates/regist_index/user_center_site.html" />
+        <option value="$PROJECT_DIR$/django8_shoping/show_goods/urls.py" />
+        <option value="$PROJECT_DIR$/django8_shoping/templates/show_goods/index.html" />
+        <option value="$PROJECT_DIR$/django8_shoping/templates/show_goods/list.html" />
+        <option value="$PROJECT_DIR$/django8_shoping/templates/show_goods/detail.html" />
+        <option value="$PROJECT_DIR$/django8_shoping/show_goods/admin.py" />
+        <option value="$PROJECT_DIR$/django8_shoping/show_goods/views.py" />
+        <option value="$PROJECT_DIR$/django8_shoping/templates/show_goods/base.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="683" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="156" />
+    <option name="y" value="62" />
+    <option name="width" value="980" />
     <option name="height" value="714" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -284,13 +241,26 @@
               <item name="django" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="$PROJECT_DIR$" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="django8_shoping" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="django8_shoping" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="regist_index" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="django" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="$PROJECT_DIR$" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="django8_shoping" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="static" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="show_goods" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="django" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="$PROJECT_DIR$" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="django8_shoping" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="templates" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="django" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="$PROJECT_DIR$" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="django8_shoping" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="templates" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="show_goods" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -303,25 +273,25 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/django8_shoping" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/django8_shoping/templates/show_goods" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/django8_shoping/static/js" />
-      <recent name="$PROJECT_DIR$/django8_shoping/static" />
-      <recent name="$PROJECT_DIR$/django7_project/firstpage" />
-      <recent name="$PROJECT_DIR$/django6_project/templates/search/indexes/booktest" />
-      <recent name="$PROJECT_DIR$/django6_project/templates/search/indexes" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/django8_shoping/templates/show_goods" />
       <recent name="$PROJECT_DIR$/django8_shoping" />
       <recent name="$PROJECT_DIR$/django8_shoping/templates/regist_index" />
       <recent name="$PROJECT_DIR$/django8_shoping/static" />
       <recent name="$PROJECT_DIR$/django7_project/static/firstpage/img" />
-      <recent name="$PROJECT_DIR$/django6_project/static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/django8_shoping/templates/show_goods" />
+      <recent name="$PROJECT_DIR$/django8_shoping/templates" />
+      <recent name="$PROJECT_DIR$/django8_shoping/static/js" />
+      <recent name="$PROJECT_DIR$/django8_shoping/static" />
+      <recent name="$PROJECT_DIR$/django7_project/firstpage" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -367,17 +337,18 @@
       <workItem from="1565664530786" duration="19621000" />
       <workItem from="1565689019908" duration="1796000" />
       <workItem from="1566206197889" duration="12404000" />
+      <workItem from="1566260061241" duration="22292000" />
+      <workItem from="1566387616320" duration="14301000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="236604000" />
+    <option name="totallyTimeSpent" value="273197000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="714" extended-state="6" />
-    <editor active="true" />
+    <frame x="156" y="62" width="980" height="714" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4982639" visible="true" weight="0.18361153" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4982639" visible="true" weight="0.31223175" />
       <window_info id="Structure" order="1" sideWeight="0.5017361" side_tool="true" weight="0.24962063" />
       <window_info id="Favorites" order="2" sideWeight="0.5017361" side_tool="true" weight="0.24962063" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -400,7 +371,7 @@
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4982639" visible="true" weight="0.38110235" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4982639" visible="true" weight="0.31223175" />
       <window_info id="Structure" order="1" sideWeight="0.5017361" side_tool="true" weight="0.24962063" />
       <window_info id="Favorites" order="2" sideWeight="0.5017361" side_tool="true" weight="0.24962063" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -427,45 +398,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/django7_project/firstpage/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django5_test/django5_test/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1561" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django6_project/templates/booktest/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="35" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django5_test/templates/booktest/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django7_project/firstpage/templates/firstpage/test3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/django7_project/firstpage/static/user_upload/background_hd_03.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -626,9 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django8_shoping/regist_index/admin.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/django7_project/firstpage/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -675,30 +604,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django8_shoping/templates/regist_index/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django8_shoping/templates/regist_index/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django8_shoping/templates/regist_index/user_center_site.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding>
-            <element signature="e#260#266#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/django8_shoping/regist_index/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -716,40 +621,9 @@
     <entry file="file://$PROJECT_DIR$/django8_shoping/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/django8_shoping/regist_index/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django8_shoping/templates/regist_index/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="62" column="81" selection-start-line="62" selection-start-column="69" selection-end-line="62" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django8_shoping/templates/regist_index/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="26" column="39" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django8_shoping/regist_index/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <element signature="e#0#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/django8_shoping/django8_shoping/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="400">
           <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
           <folding>
             <element signature="e#649#689#0" expanded="true" />
@@ -757,40 +631,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django8_shoping/show_goods/urls.py">
+    <entry file="file://$PROJECT_DIR$/django8_shoping/static/show_goods/Hummingbird_by_Shu_Le.jpg" />
+    <entry file="file://$PROJECT_DIR$/django8_shoping/django8_shoping/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="2559">
+          <caret line="131" column="7" selection-start-line="131" selection-start-column="7" selection-end-line="131" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django8_shoping/regist_index/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="57" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="57" />
           <folding>
             <element signature="e#94#126#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django8_shoping/show_goods/views.py">
+    <entry file="file://$PROJECT_DIR$/django8_shoping/templates/regist_index/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        <state relative-caret-position="80">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django8_shoping/templates/regist_index/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django8_shoping/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django8_shoping/templates/regist_index/user_center_site.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django8_shoping/regist_index/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1679">
+          <caret line="120" lean-forward="true" selection-start-line="120" selection-end-line="120" />
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#0#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/django8_shoping/show_goods/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        <state relative-caret-position="380">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="12" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django8_shoping/django8_shoping/settings.py">
+    <entry file="file://$PROJECT_DIR$/django8_shoping/templates/show_goods/list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="129" column="1" lean-forward="true" selection-start-line="129" selection-start-column="1" selection-end-line="129" selection-end-column="1" />
+        <state relative-caret-position="100">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django8_shoping/show_goods/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#94#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django8_shoping/regist_index/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django8_shoping/show_goods/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django8_shoping/show_goods/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django8_shoping/templates/show_goods/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django8_shoping/templates/show_goods/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="62" column="18" lean-forward="true" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django8_shoping/templates/show_goods/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="108" column="42" selection-start-line="108" selection-start-column="42" selection-end-line="108" selection-end-column="42" />
         </state>
       </provider>
     </entry>

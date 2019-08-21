@@ -1,17 +1,8 @@
-{% extends 'regist_index/index.html' %}
+{% extends 'show_goods/index.html' %}
 
-{% block title %}
-    用户中心
-{% endblock title %}
-{% block body1 %}
-	<div class="search_bar clearfix">
-		<a href="index.html" class="logo fl"><img src="/static/images/logo.png"></a>
-		<div class="sub_page_name fl">|&nbsp;&nbsp;&nbsp;&nbsp;用户中心</div>
-		<div class="search_con fr">
-			<input type="text" class="input_text fl" name="" placeholder="搜索商品">
-			<input type="button" class="input_btn fr" name="" value="搜索">
-		</div>		
-	</div>
+
+{% block body %}
+
 
 	<div class="main_con clearfix">
 		<div class="left_menu_con clearfix">
@@ -28,7 +19,7 @@
 					<dl>
 						<dt>当前地址：</dt>
 						<dd>{{ address }} &nbsp;{{ recv_user_name }} &nbsp; {{ phonenum }}</dd>
-					</dl>					
+					</dl>
 				</div>
 				<h3 class="common_title2">编辑地址</h3>
 				<div class="site_con">
@@ -56,7 +47,8 @@
 				</div>
 		</div>
 	</div>
-{% endblock body1 %}
+{% endblock body %}
+
 {% block endscript %}
 {% endblock endscript %}
 </body>
